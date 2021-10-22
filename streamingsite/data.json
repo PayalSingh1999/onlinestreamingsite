@@ -1,0 +1,367 @@
+{
+    "carousel" : [
+        {
+            "href" : "sacredgames.html",
+            "src" : "img/moneyheist.jpg",
+            "alt" : "carousel-image",
+            "name" : "Money heist",
+            "description": "Eight thieves take hostages and lock themselves in the<br>Royal Mint of Spain as a criminal mastermind manipulates<br> the police to carry out his plan.",
+            "seasons": "2017 | 18+ | 5 Seasons | TV Thrillers",
+            "cast": "Starring: Úrsula Corberó,Álvaro Morte,Itziar Ituño",
+            "creators": "Creators: Álex Pina"
+        },
+        {
+            "href" : "squidgames.html",
+            "src" : "img/squid.jpg",
+            "alt" : "carousel-image",
+            "name" : "Squid Games",
+            "description": "Hundreds of cash-strapped players accept a strange<br> invitation to compete in children's games. Inside, a tempting<br> prize awaits — with deadly high stakes.",
+            "seasons": "2021 | 18+ | 1 Season | TV Thrillers",
+            "cast": "Starring: Lee Jung-jae,Park Hae-soo,Wi Ha-jun",
+            "creators": "Creators: Hwang Dong-hyuk"
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/kota3.png",
+            "alt" : "carousel-image",
+            "name" : "Kota Factory",
+            "description": "In a city of coaching centers known to train <br>India’s finest collegiate minds, an earnest but unexceptional <br>student and his friends navigate campus life.",
+            "seasons": "2021 | 13+ | 2 Seasons | TV Dramas",
+            "cast": "Starring: Mayur More,Jitendra Kumar,Ranjan Raj",
+            "creators": "Creators: Arunabh Kumar,Saurabh Khanna,Raghav Subbu"
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/you.jpg",
+            "alt" : "carousel-image",
+            "name" : "You",
+            "description": "A dangerously charming, intensely obsessive<br> young man  goes to extreme measures to insert himself <br>into the lives of those he is transfixed by.",
+            "seasons": "2018 | 18+ | 3 Seasons | TV Thrillers",
+            "cast": "Starring: Penn Badgley,Victoria Pedretti,Elizabeth Lail",
+            "creators": "Creators: Greg Berlanti,Sera Gamble"
+        }
+    ],
+
+
+
+    "trend" : [
+        {
+            "href" : "sacredgames.html",
+            "src" : "img/queens.jpg",
+            "alt" : "carousel-image",
+            "title": "The Queen's Gambit",
+            "content": "In a 1950s orphanage, a young girl reveals an astonishing talent for chess and begins an unlikely journey to stardom while grappling with addiction."
+            
+        },
+        {
+            "href" : "squidgames.html",
+            "src" : "img/crown.jpg",
+            "alt" : "carousel-image",
+            "title": "The Crown",
+            "content": "This drama follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century."
+            
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/dark.jpg",
+            "alt" : "carousel-image",
+            "title": "Dark",
+            "content": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations."
+            
+            
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/breaking.webp",
+            "alt" : "carousel-image",
+            "title": "Breaking Bad",
+            "content": "A terminally ill chemistry teacher teams with a former student to manufacture crystal meth to secure his family's future."
+            
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/suits.webp",
+            "alt" : "carousel-image",
+            "title": "Suits",
+            "content": "When he impresses a big lawyer with his razor-sharp mind, a college dropout scores a coveted associate job, even though he has no legal credentials."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/queens.jpg",
+            "alt" : "carousel-image",
+            "title": "The Queen's Gambit",
+            "content": "In a 1950s orphanage, a young girl reveals an astonishing talent for chess and begins an unlikely journey to stardom while grappling with addiction."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/crown.jpg",
+            "alt" : "carousel-image",
+            "title": "The Crown",
+            "content": "This drama follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/dark.jpg",
+            "alt" : "carousel-image",
+            "title": "Dark",
+            "content": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/breaking.webp",
+            "alt" : "carousel-image",
+            "title": "Breaking Bad",
+            "content": "A terminally ill chemistry teacher teams with a former student to manufacture crystal meth to secure his family's future."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/suits.webp",
+            "alt" : "carousel-image",
+            "title": "Suits",
+            "content": "When he impresses a big lawyer with his razor-sharp mind, a college dropout scores a coveted associate job, even though he has no legal credentials."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/queens.jpg",
+            "alt" : "carousel-image",
+            "title": "The Queen's Gambit",
+            "content": "In a 1950s orphanage, a young girl reveals an astonishing talent for chess and begins an unlikely journey to stardom while grappling with addiction."
+        }
+    ],
+
+    "original" : [
+        {
+            "href" : "sacredgames.html",
+            "src" : "img/large-movie1.jpg",
+            "alt" : "carousel-image",
+            "title": "Luis Miguel - The Series",
+            "content": "This series dramatizes the life story of Mexican superstar singer Luis Miguel, who has captivated audiences in Latin America and beyond for decades."
+            
+        },
+        {
+            "href" : "squidgames.html",
+            "src" : "img/large-movie2.jpg",
+            "alt" : "carousel-image",
+            "title": "Lucifer",
+            "content": "Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he opens a nightclub and forms a connection with a homicide detective."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/large-movie3.jpg",
+            "alt" : "carousel-image",
+            "title": "Haunted: Latin America",
+            "content": "Real people's terrifying tales of the chilling, unexplained and paranormal come to life with dramatic reenactments in this reality series."
+            
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/large-movie4.jpg",
+            "alt" : "carousel-image",
+            "title": "Who killed Sara?",
+            "content": "Hell-bent on exacting revenge and proving he was framed for his sister's murder, Álex sets out to unearth much more than the crime's real culprit."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/large-movie5.jpg",
+            "alt" : "carousel-image",
+            "title": "Cobra Kai",
+            "content": "Decades after the tournament that changed their lives, the rivalry between Johnny and Daniel reignites in this sequel to the Karate Kid films." 
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/large-movie6.jpg",
+            "alt" : "carousel-image",
+            "title": "Elite",
+            "content": "When three working-class teens enroll in an exclusive private school in Spain, the clash between them and the wealthy students leads to murder."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/large-movie7.jpg",
+            "alt" : "carousel-image",
+            "title": "Transformers: War for Cybertron: Siege",
+            "content": "As the Autobots and Decepticons ravage their planet in a brutal civil war, two iconic leaders emerge in the Transformers universe's origin story."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/large-movie8.jpg",
+            "alt" : "carousel-image",
+            "title": "The Umbrella Academy",
+            "content": "Reunited by their father's death, estranged siblings with extraordinary powers uncover shocking family secrets -- and a looming threat to humanity." 
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/large-movie3.jpg",
+            "alt" : "carousel-image",
+            "title": "Haunted: Latin America",
+            "content": "Real people's terrifying tales of the chilling, unexplained and paranormal come to life with dramatic reenactments in this reality series."
+            
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/large-movie1.jpg",
+            "alt" : "carousel-image",
+            "title": "Luis Miguel - The Series",
+            "content": "This series dramatizes the life story of Mexican superstar singer Luis Miguel, who has captivated audiences in Latin America and beyond for decades."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/large-movie5.jpg",
+            "alt" : "carousel-image",
+            "title": "Cobra Kai",
+            "content": "Decades after the tournament that changed their lives, the rivalry between Johnny and Daniel reignites in this sequel to the Karate Kid films." 
+            
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/large-movie2.jpg",
+            "alt" : "carousel-image",
+            "title": "Lucifer",
+            "content": "Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he opens a nightclub and forms a connection with a homicide detective."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/large-movie8.jpg",
+            "alt" : "carousel-image",
+            "title": "The Umbrella Academy",
+            "content": "Reunited by their father's death, estranged siblings with extraordinary powers uncover shocking family secrets -- and a looming threat to humanity." 
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/large-movie6.jpg",
+            "alt" : "carousel-image",
+            "title": "Elite",
+            "content": "When three working-class teens enroll in an exclusive private school in Spain, the clash between them and the wealthy students leads to murder."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/large-movie7.jpg",
+            "alt" : "carousel-image",
+            "title": "Transformers: War for Cybertron: Siege",
+            "content": "As the Autobots and Decepticons ravage their planet in a brutal civil war, two iconic leaders emerge in the Transformers universe's origin story."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/large-movie4.jpg",
+            "alt" : "carousel-image",
+            "title": "Who killed Sara?",
+            "content": "Hell-bent on exacting revenge and proving he was framed for his sister's murder, Álex sets out to unearth much more than the crime's real culprit."
+        }
+    ],
+
+    "rating" : [
+        {
+            "href" : "sacredgames.html",
+            "src" : "img/strangerthings.jpg",
+            "alt" : "carousel-image",
+            "title": "Stranger Things",
+            "content": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl."
+        },
+        {
+            "href" : "squidgames.html",
+            "src" : "img/you.jpg",
+            "alt" : "carousel-image",
+            "title": "You",
+            "content": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/squidgame1.jpg",
+            "alt" : "carousel-image",
+            "title": "Squid Game",
+            "content": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/locke.jpg",
+            "alt" : "carousel-image",
+            "title": "The Mitchells vs. The Machines",
+            "content": "A robot apocalypse put the brakes on their cross-country road trip. Now it’s up to the Mitchells — the world’s weirdest family — to save the human race."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/moneyheist1.jpg",
+            "alt" : "carousel-image",
+            "title": "Money Heist",
+            "content": "Eight thieves take hostages and lock themselves in the Royal Mint of Spain as a criminal mastermind manipulates the police to carry out his plan." 
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/myname.jpg",
+            "alt" : "carousel-image",
+            "title": "Locke & Key",
+            "content": "After their dad's murder, three siblings move with their mom to his ancestral estate, where they discover magical keys that unlock powers — and secrets."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/little.jpg",
+            "alt" : "carousel-image",
+            "title": "Little Things",
+            "content": "A cohabiting couple in their 20s navigate the ups and downs of work, modern-day relationships and finding themselves in contemporary Mumbai."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/hometown.jpg",
+            "alt" : "carousel-image",
+            "title": "Hometown Cha-Cha-Cha",
+            "content": "A big-city dentist opens up a practice in a close-knit seaside village, home to a charming jack-of-all-trades who is her polar opposite in every way."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/never.jpg",
+            "alt" : "carousel-image",
+            "title": "Never Have I Ever",
+            "content": "After a traumatic year, an Indian-American teen just wants to spruce up her social status — but friends, family and feelings won’t make it easy on her." 
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/narcos.jpg",
+            "alt" : "carousel-image",
+            "title": "Narcos",
+            "content": "The true story of Colombia's infamously violent and powerful drug cartels fuels this gritty gangster drama series."  
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/sacred.jpg",
+            "alt" : "img/carousel-image",
+            "title": "Sacred Games",
+            "content": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm."     
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/suits.webp",
+            "alt" : "img/carousel-image",
+            "title": "Suits",
+            "content": "When he impresses a big lawyer with his razor-sharp mind, a college dropout scores a coveted associate job, even though he has no legal credentials."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/dark.jpg",
+            "alt" : "carousel-image",
+            "title": "Dark",
+            "content": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations." 
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/crown.jpg",
+            "alt" : "carousel-image",
+            "title": "The Crown",
+            "content": "This drama follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/queens.jpg",
+            "alt" : "carousel-image",
+            "title": "The Queen's Gambit",
+            "content": "In a 1950s orphanage, a young girl reveals an astonishing talent for chess and begins an unlikely journey to stardom while grappling with addiction."
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "img/breaking.webp",
+            "alt" : "carousel-image",
+            "title": "Breaking Bad",
+            "content": "A terminally ill chemistry teacher teams with a former student to manufacture crystal meth to secure his family's future." 
+        }
+    ]
+}
+
+
